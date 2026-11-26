@@ -10,3 +10,9 @@ h1 {
 h1 img {
   width: 300px;
 }
+
+article {
+  max-width: 65ch;
+  margin: 0 auto;
+  line-height: 1.6;
+}
